@@ -1,6 +1,6 @@
 <h1>ML model for movie recommendations</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [LINK TO BE UPLOADED](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project contains a machine learning model recommends ten movies based on a list of movies movies you like. In the first step, I webscrapped through lists of movies, organised by year, through Boxofficemojo's list of Highest grossing movies and had saved this as a csv file. I then used this data to Webscrape from API site for IMDB, to collect relevant information of Director, cast, certification, movie description and imdb rating and additional data required for my ML model. Using the data collect across years from 2016- 2025, i  used this data as my training model for my ML to understand the diversity of the set. The model then asks the user to input a list of 5 movies they like and gives them a list of 10 movies as recommendation taking into account the various factors needed for liking a movie. 
