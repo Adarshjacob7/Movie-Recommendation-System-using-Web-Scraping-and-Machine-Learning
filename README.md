@@ -1,4 +1,4 @@
-<h1>ML model for movie recommendations</h1>
+<h1>Movie Recommendation System using Web Scraping & Machine Learning</h1>
 
  ### [LINK TO BE UPLOADED]()
 
